@@ -1,26 +1,38 @@
 <!doctype html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8" />
-    <title>Happy Birthday ❤️</title>
+    <title>Happy Birthday My Love ❤️</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="card" id="card">
-      <div class="front">
-        <h1>Happy Birthday ❤️</h1>
-        <p>Click to open</p>
-      </div>
+    <div class="intro" id="intro">
+      <h1>Happy Birthday, My Love ❤️</h1>
+      <p>
+        Today is about celebrating the beautiful soul you are. So many people
+        love you deeply.
+      </p>
+      <button id="startBtn">Begin Your Letters</button>
+    </div>
 
-      <div class="inside">
-        <h2>To My Beautiful Wife</h2>
-        <p>
-          You make every day better just by being you. I’m so lucky to walk
-          through life with you. Happy Birthday! 🎉
-        </p>
+    <div class="gallery hidden" id="gallery">
+      <h2>Your Birthday Letters</h2>
+      <div class="card-container" id="cardContainer"></div>
+    </div>
+
+    <div class="modal" id="modal">
+      <div class="letter">
+        <span class="close" id="closeBtn">&times;</span>
+        <h2 id="modalName"></h2>
+        <p id="modalMessage"></p>
+        <div id="modalPhotos"></div>
       </div>
     </div>
 
+    <script src="data.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
