@@ -9,21 +9,29 @@ You have always been my safe place, my biggest supporter, and one of the most lo
 
 Thank you for protecting me, guiding me, and loving me the way you do. I truly don’t know what I’d do without you. I hope this year brings you so much happiness I love you big bruder 🤍🧁
     `,
-    photos: ["./images/IMG_8270.jpeg"],
+    photos: [
+      "./images/maria1.jpeg",
+      "./images/maria2.jpeg",
+      "./images/maria3.jpeg",
+    ],
   },
 
   {
     id: 2,
-    name: "Sarah",
+    name: "Patty",
     message: `
-      Happy Birthday to one of the most incredible
-      women I know!
-
-      Your laugh is contagious, your heart is golden,
-      and your friendship means everything to me.
-      I’m so lucky to have you in my life.
+      Happy birthday queen 👑! 
+Thanks for always being there for me and my family. Love you lots 🤍 Hope you have the best birthday ever! 
     `,
-    photos: ["images/sarah1.jpg"],
+    photos: [
+      "./images/patty1.png",
+      "./images/patty2.jpeg",
+      "./images/patty3.jpeg",
+      "./images/patty4.jpeg",
+      "./images/patty5.jpeg",
+      "./images/patty6.jpeg",
+      "./images/patty7.jpeg",
+    ],
   },
 
   {

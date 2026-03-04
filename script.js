@@ -27,13 +27,57 @@ function openLetter(person) {
   modalName.innerText = person.name;
   modalMessage.innerText = person.message;
 
-  modalPhotos.innerHTML = "";
+  if (person.photos.length > 0) {
+    modalPhotos.innerHTML = `
+      <div class="carousel">
+        <button class="prev">&#10094;</button>
+        <img id="carouselImage" src="${person.photos[0]}" />
+        <button class="next">&#10095;</button>
+      </div>
+      <div class="dots"></div>
+    `;
 
-  person.photos.forEach((photo) => {
-    const img = document.createElement("img");
-    img.src = photo;
-    modalPhotos.appendChild(img);
-  });
+    const image = document.getElementById("carouselImage");
+    const prevBtn = document.querySelector(".prev");
+    const nextBtn = document.querySelector(".next");
+    const dotsContainer = document.querySelector(".dots");
+
+    currentIndex = 0;
+
+    function updateImage() {
+      image.src = person.photos[currentIndex];
+      updateDots();
+    }
+
+    function updateDots() {
+      dotsContainer.innerHTML = "";
+      person.photos.forEach((_, index) => {
+        const dot = document.createElement("span");
+        dot.classList.add("dot");
+        if (index === currentIndex) dot.classList.add("active");
+        dot.addEventListener("click", () => {
+          currentIndex = index;
+          updateImage();
+        });
+        dotsContainer.appendChild(dot);
+      });
+    }
+
+    prevBtn.addEventListener("click", () => {
+      currentIndex =
+        (currentIndex - 1 + person.photos.length) % person.photos.length;
+      updateImage();
+    });
+
+    nextBtn.addEventListener("click", () => {
+      currentIndex = (currentIndex + 1) % person.photos.length;
+      updateImage();
+    });
+
+    updateDots();
+  } else {
+    modalPhotos.innerHTML = "";
+  }
 
   modal.style.display = "flex";
 }
