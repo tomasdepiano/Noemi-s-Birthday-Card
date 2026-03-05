@@ -23,7 +23,42 @@ birthdayMessages.forEach((person) => {
   container.appendChild(card);
 });
 
+function fireConfetti() {
+  const duration = 1500;
+  const end = Date.now() + duration;
+
+  (function frame() {
+    confetti({
+      particleCount: 5,
+      angle: 60,
+      spread: 55,
+      origin: { x: 0 },
+    });
+
+    confetti({
+      particleCount: 5,
+      angle: 120,
+      spread: 55,
+      origin: { x: 1 },
+    });
+
+    if (Date.now() < end) {
+      requestAnimationFrame(frame);
+    }
+  })();
+}
+
 function openLetter(person) {
+  fireConfetti();
+
+  if (person.name === "From Your Husband ❤️") {
+    confetti({
+      particleCount: 400,
+      spread: 120,
+      origin: { y: 0.6 },
+    });
+  }
+
   modalName.innerText = person.name;
   modalMessage.innerText = person.message;
 

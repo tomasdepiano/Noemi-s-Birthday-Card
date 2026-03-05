@@ -109,8 +109,9 @@ button:hover {
   color: #4a0f25;
   border-radius: 12px;
   display: flex;
-  align-items: center;
+  align-items: flex-end; /* move text toward bottom */
   justify-content: center;
+  padding-bottom: 25px; /* push name down */
   cursor: pointer;
   position: relative;
   font-size: 20px;
