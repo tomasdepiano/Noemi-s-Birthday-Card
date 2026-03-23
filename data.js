@@ -36,14 +36,61 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
 
   {
     id: 3,
+    name: "Jago's Family",
+    message: `
+      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+    `,
+    photos: ["./images/kaileepicture.JPEG"],
+  },
+
+  {
+    id: 4,
+    name: "Val",
+    message: `
+      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+    `,
+    photos: ["./images/kaileepicture.JPEG"],
+  },
+
+  {
+    id: 5,
+    name: "Mads",
+    message: `
+      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+    `,
+    photos: ["./images/kaileepicture.JPEG"],
+  },
+
+  {
+    id: 6,
+    name: "Brooklyn",
+    message: `
+      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+    `,
+    photos: ["./images/kaileepicture.JPEG"],
+  },
+  {
+    id: 7,
+    name: "Mom",
+    message: `
+      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+    `,
+    photos: ["./images/kaileepicture.JPEG"],
+  },
+  {
+    id: 8,
+    name: "Kayla",
+    message: `
+      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+    `,
+    photos: ["./images/kaileepicture.JPEG"],
+  },
+  {
+    id: 9,
     name: "From Your Husband ❤️",
     message: `
-      Happy Birthday!!
-
-      I’ll never forget our adventures and the way
-      you always bring energy and love into every
-      moment. Keep shining.
+      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
     `,
-    photos: [],
+    photos: ["./images/kaileepicture.JPEG"],
   },
 ];
