@@ -63,7 +63,9 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
     id: 5,
     name: "Mads",
     message: `
-      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+      Happy birthday beautiful!!
+
+  I am so grateful to have you in my life and that we became friends! You are one of the most giving, thoughtful, and kindest people I know. I feel like you have such a great way of making others feel seen, which is not a quality most people have! On top of that you bring such a warmth and calmness to any room you are in and I just think that is so so special. You are such an authentically kind person. One of my favorite memories with you was when we did the book party at Lagg! I feel like that brought us closer and it was such a fun night where we could be girls together! It was so fun that we did that so spontaneously too, they always end up being the best. You deserve to feel so much love from everyone in your life especially on your special day! Anyway, I can’t wait to continue growing our friendship, and having more art nights and hopefully go thrifting soon!! I love you so much!! HAPPY BIRTHDAY!!
     `,
     photos: ["./images/kaileepicture.JPEG"],
   },
