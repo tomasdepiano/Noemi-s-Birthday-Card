@@ -67,14 +67,20 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
 
   I am so grateful to have you in my life and that we became friends! You are one of the most giving, thoughtful, and kindest people I know. I feel like you have such a great way of making others feel seen, which is not a quality most people have! On top of that you bring such a warmth and calmness to any room you are in and I just think that is so so special. You are such an authentically kind person. One of my favorite memories with you was when we did the book party at Lagg! I feel like that brought us closer and it was such a fun night where we could be girls together! It was so fun that we did that so spontaneously too, they always end up being the best. You deserve to feel so much love from everyone in your life especially on your special day! Anyway, I can’t wait to continue growing our friendship, and having more art nights and hopefully go thrifting soon!! I love you so much!! HAPPY BIRTHDAY!!
     `,
-    photos: ["./images/kaileepicture.JPEG"],
+    photos: ["./images/mads1.jpeg", "./images/mads2.JPG", "./images/mads3.JPG"],
   },
 
   {
     id: 6,
     name: "Brooklyn",
     message: `
-      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+      Happy Birthday Noemi!!!
+
+From the moment we met, I remember feeling so at ease with you which is rare for me. Looking back now, I feel really lucky that meeting you turned into such a meaningful friendship. I love how fun you are and that you always make your home a place of beauty and peace that draws people together. I always feel lifted up after spending time with you. 
+
+I’ve loved all of our side quests, hikes, and lately our $5 Tuesday trips. With all the changes that happen in life it feels good to have such a steady and consistent friend. I admire your warmth, your style, and your thoughtfulness so much. It truly meant a lot to me when you told me you’ve noticed how hard I’ve been working this past year, that stayed with me and made me really happy. :,)
+
+I hope you know how much I value and treasure you as a friend. You help make life more beautiful by romanticizing it. I know this year is going to bring you blessings upon blessings, I am manifesting it. LOVE YOU SO MUCH!!!! MUAH 💋- BROOKLYN
     `,
     photos: ["./images/kaileepicture.JPEG"],
   },
@@ -104,7 +110,13 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
     id: 9,
     name: "From Your Husband ❤️",
     message: `
-      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+      Happy Birthday Baby Boo!
+
+      You are the most beautiful/amazing/important person in my life. I am so grateful to be your husband and that I get to spend everyday with you. 
+
+      You deserve the world and I am doing my best to give you the world. I can't wait to have children running around in our home and create an endless amount of memories. 
+
+      I love you so much, I hope you like your birthday present! ❤️
     `,
     photos: [
       "./images/tomas1.JPG",
