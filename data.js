@@ -81,7 +81,7 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
     id: 8,
     name: "Kayla",
     message: `
-      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+      Happy Birthday Mimi! You are such a light in my life and I’m so grateful to have known you for so many years! Thank you for always being someone I can rely on! I love you so much and hope you have the best birthday ever! 💝
     `,
     photos: [
       "./images/kayla1.png",
