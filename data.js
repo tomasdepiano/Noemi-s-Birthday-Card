@@ -47,9 +47,16 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
     id: 4,
     name: "Val",
     message: `
-      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+     Happy Birthday Noemi!!! 
+
+  You are such an amazing friend and I am beyond lucky to have you. It genuinely was love at first sight because I have adored you since I met you. The most notable thing about you is how selfless you are. You are always ready to help and support others at a moments notice. You put so much genuine love and time into your friends and family and it truly shows. You also are beyond creative. You always think of new and exciting crafts, things to do, parties to throw, etc. there’s never a dull moment being your friend. You are also an amazing cook and I daydream about your meals atleast 3 times a week. Hopefully I will be reincarnated into one of your kids so you can be my mom lol. You genuinely deserve all the good in the world. If anyone ever wins the lottery, it should be you. You are such an extraordinary woman and I’m deeply lucky to have you. You have always been there for me without hesitation and have made my life so much more exciting. I hope you have the best birthday ever!!!!!! 
     `,
-    photos: ["./images/kaileepicture.JPEG"],
+    photos: [
+      "./images/val1.jpeg",
+      "./images/val2.jpeg",
+      "./images/val3.jpeg",
+      "./images/val4.jpeg",
+    ],
   },
 
   {
