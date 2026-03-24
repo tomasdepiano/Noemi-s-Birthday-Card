@@ -73,9 +73,9 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
     id: 7,
     name: "Mom",
     message: `
-      Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
+      Feliz cumpleaños, mi niña hermosa, te quiero mucho. Que Dios te bendiga, eres la niña de mis ojos. Que cumplas muchos más. Sigue haciendo como eres, te deseo lo mejor, que te la pases bien! 
     `,
-    photos: ["./images/kaileepicture.JPEG"],
+    photos: ["./images/mom.png"],
   },
   {
     id: 8,
@@ -83,7 +83,13 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
     message: `
       Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
     `,
-    photos: ["./images/kaileepicture.JPEG"],
+    photos: [
+      "./images/kayla1.png",
+      "./images/kayla2.png",
+      "./images/kayla3.png",
+      "./images/kayla4.png",
+      "./images/kayla5.png",
+    ],
   },
   {
     id: 9,
@@ -91,6 +97,17 @@ Thanks for always being there for me and my family. Love you lots 🤍 Hope you 
     message: `
       Happy birthday auntie Mimi! We love you so much and are so lucky to have you in our lives!
     `,
-    photos: ["./images/kaileepicture.JPEG"],
+    photos: [
+      "./images/tomas1.JPG",
+      "./images/tomas2.JPG",
+      "./images/tomas3.JPG",
+      "./images/tomas4.JPG",
+      "./images/tomas5.JPG",
+      "./images/tomas6.jpeg",
+      "./images/tomas7.jpeg",
+      "./images/tomas8.jpeg",
+      "./images/tomas9.jpeg",
+      "./images/tomas10.jpeg",
+    ],
   },
 ];
