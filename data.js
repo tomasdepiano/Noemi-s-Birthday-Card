@@ -82,7 +82,12 @@ I’ve loved all of our side quests, hikes, and lately our $5 Tuesday trips. Wit
 
 I hope you know how much I value and treasure you as a friend. You help make life more beautiful by romanticizing it. I know this year is going to bring you blessings upon blessings, I am manifesting it. LOVE YOU SO MUCH!!!! MUAH 💋- BROOKLYN
     `,
-    photos: ["./images/kaileepicture.JPEG"],
+    photos: [
+      "./images/brook1.jpeg",
+      "./images/brook2.PNG",
+      "./images/brook3.JPG",
+      "./images/brook4.JPG",
+    ],
   },
   {
     id: 7,
